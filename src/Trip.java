@@ -14,6 +14,7 @@ public class Trip implements Comparable <Trip>{
     private boolean wyzywienie;
     private int dlugosc;
 
+    
 
     public int getCena() {
         return cena;
